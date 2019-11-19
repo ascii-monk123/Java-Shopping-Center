@@ -1,0 +1,30 @@
+
+****************************
+Customer Name :   Pokemon
+Customer id:   1001
+Order Summary :   ***************
+Type :  kids/ UserName :  Pokemon/ Id :  1001/ Quantity :  10.0/ Price :  200.5/ Itemname  Jacket/ Bill: 2005.0
+Type :  gents/ UserName :  Pokemon/ Id :  1001/ Quantity :  50.0/ Price :  1000.0/ Itemname  Coat/ Bill: 50000.0
+Type :  ladies/ UserName :  Pokemon/ Id :  1001/ Quantity :  12.0/ Price :  100.0/ Itemname  Saree/ Bill: 1200.0
+****************************
+Customer Name :   Pocket Lash
+Customer id:   1001
+Order Summary :   ***************
+Type :  kids/ UserName :  Pocket Lash/ Id :  1001/ Quantity :  10.0/ Price :  200.5/ Itemname  Jacket/ Bill: 2005.0
+Type :  gents/ UserName :  Pocket Lash/ Id :  1001/ Quantity :  15.0/ Price :  1000.0/ Itemname  Coat/ Bill: 15000.0
+Type :  ladies/ UserName :  Pocket Lash/ Id :  1001/ Quantity :  12.0/ Price :  100.0/ Itemname  Saree/ Bill: 1200.0
+Your total bills is : 0.0****************************
+Customer Name :   Pokemon
+Customer id:   1002
+Order Summary :   ***************
+Type :  kids/ UserName :  Pokemon/ Id :  1002/ Quantity :  15.0/ Price :  100.0/ Itemname  Diapers/ Bill: 1500.0
+Type :  gents/ UserName :  Pokemon/ Id :  1002/ Quantity :  15.0/ Price :  200.0/ Itemname  Tie/ Bill: 3000.0
+Type :  ladies/ UserName :  Pokemon/ Id :  1002/ Quantity :  10.0/ Price :  100.0/ Itemname  Saree/ Bill: 1000.0
+Your total bills is : 0.0****************************
+Customer Name :   Aahan Singh Charak
+Customer id:   1001
+Order Summary :   ***************
+Type :  kids/ UserName :  Aahan Singh Charak/ Id :  1001/ Quantity :  10.0/ Price :  200.5/ Itemname  Jacket/ Bill: 2005.0
+Type :  gents/ UserName :  Aahan Singh Charak/ Id :  1001/ Quantity :  15.0/ Price :  1000.0/ Itemname  Coat/ Bill: 15000.0
+Type :  ladies/ UserName :  Aahan Singh Charak/ Id :  1001/ Quantity :  15.0/ Price :  100.0/ Itemname  Saree/ Bill: 1500.0
+Your total bills is : 18505.0

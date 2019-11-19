@@ -1,0 +1,54 @@
+
+****************************
+Customer Name :   Pokemon
+Customer id:   1001
+Order Summary :   ***************
+Type :  kids/ UserName :  Pokemon/ Id :  1001/ Quantity :  10.0/ Price :  200.5/ Itemname  Jacket/ Bill: 2005.0
+Type :  gents/ UserName :  Pokemon/ Id :  1001/ Quantity :  50.0/ Price :  1000.0/ Itemname  Coat/ Bill: 50000.0
+Type :  ladies/ UserName :  Pokemon/ Id :  1001/ Quantity :  12.0/ Price :  100.0/ Itemname  Saree/ Bill: 1200.0
+****************************
+Customer Name :   Pocket Lash
+Customer id:   1001
+Order Summary :   ***************
+Type :  kids/ UserName :  Pocket Lash/ Id :  1001/ Quantity :  10.0/ Price :  200.5/ Itemname  Jacket/ Bill: 2005.0
+Type :  gents/ UserName :  Pocket Lash/ Id :  1001/ Quantity :  15.0/ Price :  1000.0/ Itemname  Coat/ Bill: 15000.0
+Type :  ladies/ UserName :  Pocket Lash/ Id :  1001/ Quantity :  12.0/ Price :  100.0/ Itemname  Saree/ Bill: 1200.0
+Your total bills is : 0.0****************************
+Customer Name :   Pokemon
+Customer id:   1002
+Order Summary :   ***************
+Type :  kids/ UserName :  Pokemon/ Id :  1002/ Quantity :  15.0/ Price :  100.0/ Itemname  Diapers/ Bill: 1500.0
+Type :  gents/ UserName :  Pokemon/ Id :  1002/ Quantity :  15.0/ Price :  200.0/ Itemname  Tie/ Bill: 3000.0
+Type :  ladies/ UserName :  Pokemon/ Id :  1002/ Quantity :  10.0/ Price :  100.0/ Itemname  Saree/ Bill: 1000.0
+Your total bills is : 0.0****************************
+Customer Name :   Aahan Singh Charak
+Customer id:   1001
+Order Summary :   ***************
+Type :  kids/ UserName :  Aahan Singh Charak/ Id :  1001/ Quantity :  10.0/ Price :  200.5/ Itemname  Jacket/ Bill: 2005.0
+Type :  gents/ UserName :  Aahan Singh Charak/ Id :  1001/ Quantity :  15.0/ Price :  1000.0/ Itemname  Coat/ Bill: 15000.0
+Type :  ladies/ UserName :  Aahan Singh Charak/ Id :  1001/ Quantity :  15.0/ Price :  100.0/ Itemname  Saree/ Bill: 1500.0
+Your total bills is : 18505.0
+****************************
+Customer Name :   Aahan
+Customer id:   1001
+Order Summary :   ***************
+Type :  kids/ UserName :  Aahan/ Id :  1001/ Quantity :  15.0/ Price :  200.5/ Itemname  Jacket/ Bill: 3007.5
+Type :  gents/ UserName :  Aahan/ Id :  1001/ Quantity :  15.0/ Price :  1000.0/ Itemname  Coat/ Bill: 15000.0
+Type :  ladies/ UserName :  Aahan/ Id :  1001/ Quantity :  1.0/ Price :  100.0/ Itemname  Saree/ Bill: 100.0
+Your total bills is : 18107.5
+GST : 15%
+Your bill after calculating the GST is 20823.625
+
+
+****************************
+Customer Name :   Poekmon
+Customer id:   1002
+Order Summary :   ***************
+Type :  kids/ UserName :  Poekmon/ Id :  1002/ Quantity :  15.0/ Price :  97.5/ Itemname  Pants/ Bill: 1462.5
+Type :  gents/ UserName :  Poekmon/ Id :  1002/ Quantity :  20.0/ Price :  200.0/ Itemname  Tie/ Bill: 4000.0
+Type :  ladies/ UserName :  Poekmon/ Id :  1002/ Quantity :  12.0/ Price :  300.0/ Itemname  Jeans/ Bill: 3600.0
+Your total bills is : 9062.5
+GST : 15%
+Your bill after calculating the GST is 10421.875
+
+

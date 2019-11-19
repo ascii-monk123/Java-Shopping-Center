@@ -1,0 +1,4 @@
+1301 Saree 20 100
+1302 Lehanga 10 50
+1303 Dupatta 20 900
+1304 Jeans 50 300
